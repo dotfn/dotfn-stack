@@ -26,9 +26,9 @@ Six skills.
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add <owner>/dotfn-stack
+npx skills add dotfn/dotfn-stack
 # or install a single skill:
-npx skills add <owner>/dotfn-stack --skill dotfn-capture
+npx skills add dotfn/dotfn-stack --skill dotfn-capture
 ```
 
 Or copy the folders inside `skills/` directly to wherever your agent reads skills, then restart it:
