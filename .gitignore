@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+audit/
+*.tmp
+.DS_Store
+test/
+bundles/
+*-frames/
+*.webm
+compare-diff.png
